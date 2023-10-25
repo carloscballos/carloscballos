@@ -1,7 +1,7 @@
 <h2> Hi, I'm Carlos Ceballos!</h2>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/carloscballos/carloscballos/assets/90358762/b3b6f2c3-f5f9-4343-b644-64a9eaa21a2d" width="100%">
 </p>
 
 ```javascript
